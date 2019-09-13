@@ -1,0 +1,3 @@
+= Your Character
+
+include::attributes.adoc[leveloffset=+1]

@@ -1,0 +1,49 @@
+= Attributes
+
+The character's attributes provides a quick way to describe it's physical and mental capabilities. They serve as a helpful tool to understand and simulate these porperties.
+
+== Primary attributes
+
+There are six *primary attributes* in the game. These primary attributes show the very basic capabilities of the character. For example if your character is strong or weak, intelligent or foolish. These primary attributes can't go under 1 in any case. If that would happen the character dies immidiately instead.
+
+== Attribute modifiers
+
+Each attribute has a modifier value that affects certain properties of the character. These properties for each attribute are discussed bellow. To calculate the bonus vaule for an attribute you need to use the following chart:
+
+TODO: Ability bonus chart!
+
+== Secondary attributes
+
+There are two *secondary attributes* for each primary one. These are representing the different aspects of the primary attribute they belong to. For each modifier you hav on your primary attribute you can allocate a point on your secodary attribute.
+
+== Strength
+
+Describes the raw power and endurance of the character.
+
+=== Stamina
+
+Stamina describes the character's muscle efficency. How long can it lift weights without getting tired.
+
+=== Muscle
+
+...
+
+== Dexterity
+
+== Constitution
+
+== Intelligence
+
+== Wisdom
+
+== Charisma
+
+Charisma is the force of the character's personality. How good is it with manipulating, inspiring people.
+
+=== Leadership
+
+Asd
+
+=== Comeliness
+
+Comeliness describes the attractiveness of the character. It could influence situations when intricate social interactions are necessary. Different races get bonuses to Comeliness for each other race. For example an orc get zero bonuses to Comeliness when meeting an other orc but -4 when meeting a human.

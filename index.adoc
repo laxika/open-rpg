@@ -1,0 +1,11 @@
+:toc: left
+
+= Project RPG
+
+[quote, A. Philip Randolph]
+____
+Freedom is never given; it is won.
+____
+
+include::introduction/introduction.adoc[leveloffset=+1]
+include::your-character/your-character.adoc[leveloffset=+1]
