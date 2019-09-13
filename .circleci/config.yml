@@ -1,0 +1,22 @@
+version: 2.0
+
+jobs:
+  build:
+    docker:
+      - image: ubuntu-1604:201903-01
+    working_directory: ~/circleci
+    steps:
+      - checkout
+      - run: sudo apt-get install asciidoctor
+      - run: sudo pip install awscli
+      - run: asciidoctor index.adoc
+      - run: aws s3 sync ~/circleci s3://open-rpg/ --delete
+
+workflows:
+  version: 2
+  build-deploy:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only: master
