@@ -1,4 +1,6 @@
 :toc: left
+:icons: font
+:stylesheet: style.css
 
 = Project RPG
 

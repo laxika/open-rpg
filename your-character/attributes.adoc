@@ -1,20 +1,25 @@
 = Attributes
 
-The character's attributes provides a quick way to describe it's physical and mental capabilities. They serve as a helpful tool to understand and simulate these porperties.
+The character's attributes provide a quick way to describe it's physical and mental capabilities. They serve as a helpful tool to understand and simulate these properties.
 
 == Primary attributes
 
-There are six *primary attributes* in the game. These primary attributes show the very basic capabilities of the character. For example if your character is strong or weak, intelligent or foolish. These primary attributes can't go under 1 in any case. If that would happen the character dies immidiately instead.
+There are six *primary attributes* in the game. These primary attributes show the very basic capabilities of the character. For example, if your character is strong or weak, intelligent or foolish. These primary attributes can't go under 1 in any case. If that would happen the character dies immediately instead.
 
 == Attribute modifiers
 
-Each attribute has a modifier value that affects certain properties of the character. These properties for each attribute are discussed bellow. To calculate the bonus vaule for an attribute you need to use the following chart:
+Each attribute has a modifier value that affects certain properties of the character. These properties for each attribute are discussed bellow. To calculate the bonus value for an attribute you need to use the following chart:
 
 TODO: Ability bonus chart!
 
 == Secondary attributes
 
-There are two *secondary attributes* for each primary one. These are representing the different aspects of the primary attribute they belong to. For each modifier you hav on your primary attribute you can allocate a point on your secodary attribute.
+There are two *secondary attributes* for each primary one. They represent the different aspects of the primary attributes they belong to. For each modifier you have on your primary attribute you can allocate one point on your secondary attribute.
+
+[TIP]
+====
+For example, if your character has 17 strength, it will get 4 attribute modifiers for stamina or muscle. You can play him as a very muscular warrior (4 muscle and 0 endurance) or a legionary who is not quite muscular but could march for an extended time, often days (0 muscle and 4 endurance) or someone who doesn't have the biggest muscles nor could march for days but somewhere in-between (muscle 3 and 1 endurance).
+====
 
 == Strength
 
@@ -46,4 +51,4 @@ Asd
 
 === Comeliness
 
-Comeliness describes the attractiveness of the character. It could influence situations when intricate social interactions are necessary. Different races get bonuses to Comeliness for each other race. For example an orc get zero bonuses to Comeliness when meeting an other orc but -4 when meeting a human.
+Comeliness describes the attractiveness of the character. It could influence situations when intricate social interactions are necessary. Different races get bonuses to Comeliness for each other race. For example, an orc would get zero bonuses to Comeliness when meeting another orc but -4 when meeting a human.
