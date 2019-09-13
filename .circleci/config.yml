@@ -10,7 +10,7 @@ jobs:
       - run: apk -Uuv add groff less python py-pip
       - run: pip install awscli
       - run: asciidoctor index.adoc
-      - run: aws s3 sync ~/circleci s3://open-rpg/ --delete
+      - run: aws s3 sync ~/circleci s3://open-rpg/ --delete --cache-control "max-age=3600" --acl "public-read"
 
 workflows:
   version: 2
