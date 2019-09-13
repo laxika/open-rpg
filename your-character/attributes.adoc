@@ -57,12 +57,23 @@ The *Dexterity* attribute describes the character's hand-eye coordination, react
 
 === Reflex
 
-A character with high reflexes might be a sleight-of-hand or a quicks-hooter artist. He or she could feel the time slowing down when doing quick actions or react to traps or immediate changes in his environment.
+The *Reflex* attribute describes how quickly could the character react to a change in his or her environment or do actions quickly. A character with high reflexes might be a sleight-of-hand expert or a quick-shooter artist. He or she could feel the time slowing down when doing quick actions or react to traps or immediate changes in his environment.
 
 .Properties affected by Reflex
 * Initiation
+* Improve running speed
+* Improve attack speed for certain classes
 
 === Balance
+
+The *Balance* attribute describes the character's ability to do acrobatic movements, climb walls or other objects, do activities that require precise hand motions.
+
+.Properties affected by Balance
+* Acrobatics related skills
+* Opening locks
+* Picking pockets
+* Moving silently
+* Climbing walls or other objects
 
 == Constitution
 
