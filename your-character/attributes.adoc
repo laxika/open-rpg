@@ -23,7 +23,7 @@ For example, if your character has 17 strength, it will get 4 attribute modifier
 
 == Strength
 
-The *Stamina* attribute describes the character's muscle efficiency. For example, how long can it lift weights or do exhausting activities without getting tired.
+The *Strength* attribute describes the sheer power and endurance of the character.
 
 .Properties affected by Strength
 * Meele damage
