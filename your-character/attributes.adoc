@@ -23,20 +23,46 @@ For example, if your character has 17 strength, it will get 4 attribute modifier
 
 == Strength
 
-Describes the raw power and endurance of the character.
+The *Stamina* attribute describes the character's muscle efficiency. For example, how long can it lift weights or do exhausting activities without getting tired.
 
 .Properties affected by Strength
 * Meele damage
+* Meele attack
 
 === Stamina
 
-Stamina describes the character's muscle efficency. How long can it lift weights without getting tired.
+The *Stamina* attribute describes the character's muscle efficiency. For example, how long can it lift weights or do exhausting activities without getting tired.
+
+.Properties affected by Stamina
+* Carrying capacity
+* Fatigue & Exhaustion
+* Springing
+* Proficiencies
 
 === Muscle
 
-...
+The *Muscle* attribute measures the character's sheer power. A character with high Muscle looks very muscular and able to lift or bend items easily.
+
+.Properties affected by Muscle
+* Force opening objects
+* Lifting/bending objects
 
 == Dexterity
+
+The *Dexterity* attribute describes the character's hand-eye coordination, reaction time and balance.
+
+.Properties affected by Dexterity
+* Ranged damage
+* Ranged attack
+
+=== Reflex
+
+A character with high reflexes might be a sleight-of-hand or a quicks-hooter artist. He or she could feel the time slowing down when doing quick actions or react to traps or immediate changes in his environment.
+
+.Properties affected by Reflex
+* Initiation
+
+=== Balance
 
 == Constitution
 
