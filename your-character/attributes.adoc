@@ -14,7 +14,12 @@ TODO: Ability bonus chart!
 
 == Secondary attributes
 
-There are two *secondary attributes* for each primary one. These are representing the different aspects of the primary attribute they belong to. For each modifier you hav on your primary attribute you can allocate a point on your secodary attribute.
+There are two *secondary attributes* for each primary one. They represent the different aspects of the primary attributes they belong to. For each modifier you have on your primary attribute you can allocate one point on your secodary attribute.
+
+[TIP]
+====
+For example, if your character has 17 strength, it will get 4 attribute modifiers for stamina or muscle. You can play him as a very muscular warrior (4 muscle and 0 endurance) or a legionary who is not quite muscular but could march for an extended time, often days (0 muscle and 4 endurance) or someone who doesn't have the biggest muscles nor could march for days but somewhere in-between (muscle 3 and 1 endurance).
+====
 
 == Strength
 
