@@ -84,9 +84,11 @@ The *Balance* attribute describes the character's ability to do acrobatic moveme
 * How hard is to weaken or kill the character with poisons
 * Increase hitpoints when the character rolls at level ups
 
-=== Resistance
+=== Fortitude
 
-.Properties affected by Resistance
+The *Balance* attribute describes the character's ability to stand up to physical punishment or attacks against vitality and health.
+
+.Properties affected by Fortitude
 * How much physical abouse could the character survive when interrogated
 * Chance of surviving near-death experiences
 
