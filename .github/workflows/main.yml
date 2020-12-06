@@ -11,11 +11,14 @@ on:
 
 jobs:
   build:
-    runs-on: asciidoctor/docker-asciidoctor
+    runs-on: ubuntu-latest
 
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+
+      - name: Install Asciidoctor
+        run: apt-get install -y asciidoc
 
       - name: Install Python
         run: apk -Uuv add groff less python py-pip
