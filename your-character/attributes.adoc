@@ -23,31 +23,106 @@ For example, if your character has 17 strength, it will get 4 attribute modifier
 
 == Strength
 
-Describes the raw power and endurance of the character.
+The *Strength* attribute describes the sheer power and endurance of the character.
+
+.Properties affected by Strength
+* Meele damage
+* Meele attack
 
 === Stamina
 
-Stamina describes the character's muscle efficency. How long can it lift weights without getting tired.
+The *Stamina* attribute describes the character's muscle efficiency. For example, how long can it lift weights or do exhausting activities without getting tired.
+
+.Properties affected by Stamina
+* Carrying capacity
+* Fatigue & Exhaustion
+* Springing
+* Proficiencies
 
 === Muscle
 
-...
+The *Muscle* attribute measures the character's sheer power. A character with high Muscle looks very muscular and able to lift or bend items easily.
+
+.Properties affected by Muscle
+* Carrying capacity
+* Force opening objects
+* Lifting/bending objects
 
 == Dexterity
 
+The *Dexterity* attribute describes the character's hand-eye coordination, reaction time and balance.
+
+.Properties affected by Dexterity
+* Ranged damage
+* Ranged attack
+
+=== Reflex
+
+The *Reflex* attribute describes how quickly could the character react to a change in his or her environment or do actions quickly. A character with high reflexes might be a sleight-of-hand expert or a quick-shooter artist. He or she could feel the time slowing down when doing quick actions or react to traps or immediate changes in his environment.
+
+.Properties affected by Reflex
+* Initiation
+* Improve running speed
+* Improve attack speed for certain classes
+
+=== Balance
+
+The *Balance* attribute describes the character's ability to do acrobatic movements, climb walls or other objects, do activities that require precise hand motions.
+
+.Properties affected by Balance
+* Acrobatics related skills
+* Opening locks
+* Picking pockets
+* Moving silently
+* Climbing walls or other objects
+
 == Constitution
+
+=== Health
+
+.Properties affected by Health
+* How hard is to weaken or kill the character with poisons
+* Increase hitpoints when the character rolls at level ups
+
+=== Fortitude
+
+The *Balance* attribute describes the character's ability to stand up to physical punishment or attacks against vitality and health.
+
+.Properties affected by Fortitude
+* How much physical abouse could the character survive when interrogated
+* Chance of surviving near-death experiences
 
 == Intelligence
 
+...
+
+=== Reason
+
+...
+
+=== Knowledge
+
+...
+
 == Wisdom
+
+...
+
+=== Intuition
+
+...
+
+=== Willpower
+
+...
 
 == Charisma
 
-Charisma is the force of the character's personality. How good is it with manipulating, inspiring people.
+Charisma is the force of the character's personality. How good is it with manipulating and inspiring people.
 
 === Leadership
 
-Asd
+...
 
 === Comeliness
 
