@@ -27,4 +27,4 @@ jobs:
         run: sudo asciidoctor index.adoc
 
       - name: Upload the website
-        run: sudo aws s3 sync ~/circleci s3://open-rpg/ --delete --cache-control "max-age=3600" --acl "public-read"
+        run: sudo aws s3 sync $GITHUB_WORKFLOW s3://open-rpg/ --delete --cache-control "max-age=3600" --acl "public-read"
