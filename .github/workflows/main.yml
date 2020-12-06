@@ -20,9 +20,6 @@ jobs:
       - name: Install Asciidoctor
         run: sudo apt-get install -y asciidoc
 
-      - name: Install Python
-        run: sudo apk -Uuv add groff less python py-pip
-
       - name: Install AWS CLI
         run: sudo pip install awscli
 
